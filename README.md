@@ -10,8 +10,8 @@ announced at Connect() 2018 during Scott Hanselman’s keynote.
 
 Azure Notebooks is a hosted service for [Jupyter Notebooks](#jupyter) that
 requires no installation.  It enables you to get started quickly on
-prototyping, data science, academic research, or learning to program F#,Python or
-R.  You can combine code, markdown, images, videos, graphs, all in one format
+prototyping, data science, academic research, or learning to program F#, Python or
+R. You can combine code, markdown, images, videos, graphs, all in one format
 and easily share with partners.
 
 Best of all, this service is free to use, making it a great environment for:

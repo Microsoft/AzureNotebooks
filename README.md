@@ -10,16 +10,16 @@ We deeply value the Azure Notebooks community and all that was created over the 
 
 Azure Notebooks is a hosted service for [Jupyter Notebooks](#jupyter) that
 requires no installation.  It enables you to get started quickly on
-prototyping, data science, academic research, or learning to program Python or
-R.  You can combine code, markdown, images, videos, graphs, all in one format
+prototyping, data science, academic research, or learning to program F#, Python or
+R. You can combine code, markdown, images, videos, graphs, all in one format
 and easily share with partners.
 
 Best of all, this service is free to use, making it a great environment for:
 
-- Teachers who need a hassle-free Python/R environment for classes,
+- Teachers who need a hassle-free F#/Python/R environment for classes,
 - Presenters who don't want attendees to spend 45 mins installing software,
 - Developers and hobbyist who need a quick coding scratchpad,
-- Data scientists who need a full R, Python (Anaconda) environment and don't
+- Data scientists who need a full F#, R, Python (Anaconda) environment and don't
   want to spend the time installing everything.
 
 Documentation for Azure Notebooks is found on
